@@ -1,10 +1,10 @@
 @font-face {
-  font-family: 'cryptofont';
-  src: url('fonts/cryptofont.eot?r6g6a6');
-  src: url('fonts/cryptofont.eot?r6g6a6#iefix') format('embedded-opentype'),
-    url('fonts/cryptofont.ttf?r6g6a6') format('truetype'),
-    url('fonts/cryptofont.woff?r6g6a6') format('woff'),
-    url('fonts/cryptofont.svg?r6g6a6#cryptofont') format('svg');
+  font-family: 'cardanofont';
+  src: url('fonts/cardanofont.eot?r6g6a6');
+  src: url('fonts/cardanofont.eot?r6g6a6#iefix') format('embedded-opentype'),
+    url('fonts/cardanofont.ttf?r6g6a6') format('truetype'),
+    url('fonts/cardanofont.woff?r6g6a6') format('woff'),
+    url('fonts/cardanofont.svg?r6g6a6#cardanofont') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -12,7 +12,7 @@
 
 i {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'cryptofont';
+  font-family: 'cardanofont';
   speak: never;
   font-style: normal;
   font-weight: normal;

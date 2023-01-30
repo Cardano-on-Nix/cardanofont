@@ -1,23 +1,23 @@
 {
-  "name": "@cryptofonts/cryptofont",
+  "name": "@cardanofonts/cardanofont",
   "version": "1.3.5",
   "description": "Cryptocurrency icon webfont and SVG",
   "main": "index.js",
   "scripts": {
-    "build": "csso --output cryptofont.min.css cryptofont.css",
+    "build": "csso --output cardanofont.min.css cardanofont.css",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/monzanifabio/cryptofont.git"
+    "url": "git+https://github.com/monzanifabio/cardanofont.git"
   },
   "keywords": ["Cryptocurrency", "Webfont", "icons"],
   "author": "Fabio Monzani",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/monzanifabio/cryptofont/issues"
+    "url": "https://github.com/monzanifabio/cardanofont/issues"
   },
-  "homepage": "https://github.com/monzanifabio/cryptofont#readme",
+  "homepage": "https://github.com/monzanifabio/cardanofont#readme",
   "dependencies": {
     "csso-cli": "^4.0.0"
   }

@@ -1,5 +1,5 @@
 .DS_Store
 package-lock.json
-cryptofont.json
+cardanofont.json
 selection.json
 node_modules
