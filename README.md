@@ -1,6 +1,5 @@
 # Cardanofont
 Cryptocurrency icon webfont and SVG forked for the Cardano ecosystem.
-[Visit our website for more resources](https://cryptofonts.com)
 
 ### Usage
 `<i  class="cf cf-btc"></i>`
